@@ -39,3 +39,4 @@
 
 [View Certificate](https://portal.bloombergforeducation.com/certificates/dGjBgZwiNp3T4fwNGjtCoNTk)
 
+![Bloomberg Market Concepts](bloomberg-market-concepts.jpg)
