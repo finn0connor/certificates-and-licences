@@ -33,4 +33,4 @@
 
 [View Certificate](https://www.udemy.com/certificate/UC-0a1138e9-e26a-4374-ab5d-e32f1144025a/)
 
-![Python & Machine Learning for Financial Analysis](python-and-machine-learning-udemy.png)
+![Python & Machine Learning for Financial Analysis](python-and-machine-learning-udemy.jpg)
