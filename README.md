@@ -4,7 +4,7 @@
 
 ### Completed Courses
 
-| Part | Course | Certificate | Date |
+| # | Course | Certificate | Date |
 |---|--------|-------------|------|
 | 1 | Python Introduction | [View Certificate](https://app.dataquest.io/view_cert/I3WJAQDSAN0ZULR486XN) | Jan 2025 |
 | 2 | Data Analysis and Visualization | [View Certificate](https://app.dataquest.io/view_cert/L8VRTOQPMW8T33EYGEP3) | Feb 2025 |
@@ -22,3 +22,15 @@
 ### Final Certification
 
 🎯 **Data Scientist in Python** - Pending
+
+---
+
+## Udemy
+
+### Python & Machine Learning for Financial Analysis
+
+**Completed:** October 2023
+
+[View Certificate](https://www.udemy.com/certificate/UC-0a1138e9-e26a-4374-ab5d-e32f1144025a/)
+
+![Python & Machine Learning for Financial Analysis](python-and-machine-learning-udemy.png)
