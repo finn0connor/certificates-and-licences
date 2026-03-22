@@ -1,6 +1,6 @@
 # Certifications
 
-## Dataquest - Data Scientist in Python Path
+## Dataquest: Data Scientist in Python Path
 
 ### Completed Courses
 
@@ -25,11 +25,9 @@
 
 ---
 
-## Udemy
+## Udemy: Python & Machine Learning for Financial Analysis
 
-### Python & Machine Learning for Financial Analysis
-
-**Completed:** October 2023
+**Completed:** August 2023
 
 [View Certificate](https://www.udemy.com/certificate/UC-0a1138e9-e26a-4374-ab5d-e32f1144025a/)
 
