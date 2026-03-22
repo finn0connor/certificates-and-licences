@@ -17,8 +17,6 @@
 | 9 | Deep Learning in Python | - | - |
 | 10 | Advanced Topics in Data Science | - | - |
 
----
-
 ### Final Certification
 
 🎯 **Data Scientist in Python** - Pending
