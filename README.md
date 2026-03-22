@@ -4,7 +4,7 @@
 
 ### Completed Courses
 
-| # | Course | Certificate | Date |
+| Part | Course | Certificate | Date |
 |---|--------|-------------|------|
 | 1 | Python Introduction | [View Certificate](https://app.dataquest.io/view_cert/I3WJAQDSAN0ZULR486XN) | January 2025 |
 | 2 | Data Analysis and Visualization | [View Certificate](https://app.dataquest.io/view_cert/L8VRTOQPMW8T33EYGEP3) | February 2025 |
