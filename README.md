@@ -9,7 +9,7 @@
 | 1 | Python Introduction | [View Certificate](https://app.dataquest.io/view_cert/I3WJAQDSAN0ZULR486XN) | January 2025 |
 | 2 | Data Analysis and Visualization | [View Certificate](https://app.dataquest.io/view_cert/L8VRTOQPMW8T33EYGEP3) | February 2025 |
 | 3 | Data Cleaning | [View Certificate](https://app.dataquest.io/view_cert/HNUJRVTHS929TY2MBW9Z) | April 2025 |
-| 4 | The Command Line | - | - |
+| 4 | The Command Line | [View Certificate](https://app.dataquest.io/view_cert/ZGSIAXZCCL9S6MMNDXF9) | April 2025 |
 | 5 | Working with Data Sources Using SQL | - | - |
 | 6 | APIs and Web Scraping in Python | - | - |
 | 7 | Probability and Statistics | - | - |
